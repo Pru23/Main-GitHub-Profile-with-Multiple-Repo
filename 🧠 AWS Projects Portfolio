@@ -21,7 +21,12 @@ Welcome to my cloud portfolio! Here you'll find hands-on AWS and Python projects
 - Skills: ETL pipelines, cloud storage, Python scripting
 
 ---
+### 🖥️ [HTML Hosting from GitHub](https://github.com/Pru23/html-github-hosting)
+Host a static HTML site on an EC2 instance using a GitHub repo and User Data script.
 
+- Services: EC2, GitHub, Apache
+- Key Skills: Linux, User Data scripting, Git integration
+-----
 
 ## 👩‍💻 About Me
 
