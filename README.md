@@ -22,6 +22,13 @@ Welcome to my cloud portfolio! Here you'll find hands-on AWS and Python projects
 
 ---
 
+### 🖥️ [HTML Hosting from GitHub](https://github.com/Pru23/html-github-hosting)
+Host a static HTML site on an EC2 instance using a GitHub repo and User Data script.
+
+- Services: EC2, GitHub, Apache
+- Key Skills: Linux, User Data scripting, Git integration
+
+
 ## ☁️ Other Projects
 
 ### 🌦️ [Weather App](https://github.com/Pru23/Weather_app1)
